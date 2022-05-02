@@ -1,3 +1,9 @@
+# .zshrc
+# Manages master .zshrc configuration for my workstation
+#
+# Author: @kendricng
+# Source: https://github.com/kendricng/myconf/blob/main/.zshrc
+
 # Default path
 export PATH="$PATH:/opt/bin"
 
